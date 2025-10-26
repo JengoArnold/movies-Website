@@ -1,3 +1,29 @@
-body{
+.navdiv{
+    display: flex;
+    justify-content: flex-start;
+
+}
+.movie2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.Mx{
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    
     
 }
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+
